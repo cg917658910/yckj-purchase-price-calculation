@@ -1,0 +1,7 @@
+env: dev
+addr: ":8001"
+
+db_dsn: "root:cg123456@tcp(127.0.0.1:3306)/purchase_price_calculation?charset=utf8mb4&parseTime=True&loc=Local"
+
+
+
